@@ -20,7 +20,7 @@ Estudante de Engenharia de Software com interesse em tecnologia e inteligência 
 
 ## 📊 Estatísticas do GitHub:
 
-GitHub](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+GitHub] (https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 
 ---
