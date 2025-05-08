@@ -14,7 +14,9 @@ Bem-vindo ao meu perfil no GitHub!
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> Python: Linguagem de programação versátil, amplamente utilizada para automação, análise de dados e desenvolvimento web.
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/> Docker: Plataforma que automatiza a implantação de aplicativos em contêineres, garantindo consistência e escalabilidade.
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> Git: Sistema de controle de versão distribuído, essencial para o gerenciamento eficiente de código-fonte em projetos colaborativos.
 </div>
 
