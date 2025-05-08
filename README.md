@@ -1,16 +1,12 @@
-## Hi there 👋
+# Olá, sou Paulo Henrik Moura da Silva 👋
 
-<!--
-**paulohk03/paulohk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em projetos de automação.
+- 🌱 Estou aprendendo sobre DevOps e Kubernetes.
+- 👯 Estou procurando colaborar em projetos open-source.
+- 🤔 Estou procurando ajuda com integração contínua.
+- 💬 Pergunte-me sobre Python, Docker e Git.
+- 📫 Como entrar em contato comigo: paulo.henrik@sempreceub.com
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: Apaixonado por café e tecnologia!
