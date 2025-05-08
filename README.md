@@ -10,3 +10,4 @@ Bem-vindo ao meu perfil no GitHub!
 - 📫 Como entrar em contato comigo: paulo.henrik@sempreceub.com
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Apaixonado por café e tecnologia!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
