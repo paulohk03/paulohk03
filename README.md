@@ -4,8 +4,9 @@ Estudante de Engenharia de Software com interesse em tecnologia e inteligência 
 
 - 🎓 Atualmente estudando: **Engenharia de Software**
 - 💡 Interesses: **Tecnologia** e **Inteligência Artificial**
-- 📫 Como encontrar: [paulo.henrik@sempreceub.com](mailto:paulo.henrik@sempreceub.com)
-- 🌐 Idiomas: **Português (nativo)
+- 📫 Como encontrar:
+  - 📧 [paulo.henrik@sempreceub.com](mailto:paulo.henrik@sempreceub.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-henrik-moura-da-silva-b32683364/)
 
 ---
 
@@ -24,11 +25,9 @@ Estudante de Engenharia de Software com interesse em tecnologia e inteligência 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=paulohenrik&show_icons=true&theme=radical)
 ![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=paulohenrik&theme=radical)
 
-
 ---
 
 ## ✨ Sobre mim:
 
 Sou movido pela curiosidade e acredito que aprender é uma jornada constante. Tenho grande interesse por tecnologia e inteligência artificial, áreas que me inspiram a buscar soluções criativas e eficientes. Gosto de explorar como os sistemas funcionam e como diferentes áreas do conhecimento se conectam para construir algo inovador.
-
 
