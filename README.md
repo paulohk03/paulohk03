@@ -5,7 +5,7 @@ Estudante de Engenharia de Software com interesse em tecnologia e inteligência 
 - 🎓 Atualmente estudando: **Engenharia de Software**
 - 💡 Interesses: **Tecnologia** e **Inteligência Artificial**
 - 📫 Como encontrar: [paulo.henrik@sempreceub.com](mailto:paulo.henrik@sempreceub.com)
-- 🌐 Idiomas: **Português (nativo), Inglês (básico)**
+- 🌐 Idiomas: **Português (nativo)
 
 ---
 
